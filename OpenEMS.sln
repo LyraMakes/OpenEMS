@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenEMS", "OpenEMS\OpenEMS.csproj", "{9548A0B0-5216-44F6-9322-FDF19B88D753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenEMSApplication", "OpenEMSApplication\OpenEMSApplication.csproj", "{31CDD740-5F63-4D13-8286-CB9A1BAAE5F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9548A0B0-5216-44F6-9322-FDF19B88D753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9548A0B0-5216-44F6-9322-FDF19B88D753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9548A0B0-5216-44F6-9322-FDF19B88D753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9548A0B0-5216-44F6-9322-FDF19B88D753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31CDD740-5F63-4D13-8286-CB9A1BAAE5F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31CDD740-5F63-4D13-8286-CB9A1BAAE5F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31CDD740-5F63-4D13-8286-CB9A1BAAE5F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31CDD740-5F63-4D13-8286-CB9A1BAAE5F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
